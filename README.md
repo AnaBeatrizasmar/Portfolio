@@ -9,7 +9,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="avatar da Ana Beatriz" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Ana Beatriz</p>
     <header>
@@ -65,8 +65,6 @@ que já desenvolvi!</p>
                     </div>
                 </div>
             </div>
-
-            <!-- Projeto 3 -->
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-3.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
