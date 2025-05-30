@@ -11,8 +11,6 @@
             srcset="">
         <p class="lead">Eu sou Ana Beatriz</p>
     <header>
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
-        <p>Eu sou Ana Beatriz_</p>
 <h1>Eu estudo Programação</h1>
 <p>Estou no 3 ano do ensino médio. Aprendo sobre programação. Na escola realizo diversos projetos e aprendo diversos códigos. Veja os projetos
 que já desenvolvi!</p>
