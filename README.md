@@ -7,7 +7,7 @@
 </head>
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Ana Beatriz" class="rounded-circle" width="150" height="150"
+        <img src="img/AvatarMaker (1).png" alt="avatar da Ana Beatriz" class="rounded-circle" width="150" height="150"
             srcset="">
         <p class="lead">Eu sou Ana Beatriz</p>
     <header>
