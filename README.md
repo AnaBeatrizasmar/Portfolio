@@ -24,16 +24,11 @@ que já desenvolvi!</p>
             <p class="badge bg-secondary">Faço artesanato</p>
             <p class="badge bg-secondary">Gosto de animais</p>
             <p class="badge bg-secondary">Sou organizada</p>
-            <p>Sei cozinhar</p>
-            <p>Faço artesanato</p>
-            <p>Gosto de animais</p>
-            <p>Sou organizada</p>
 </div>
 </header>
     <main class="container mt-5">
         <h2>Meus projetos</h2>
         <div class="row">
-            <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
