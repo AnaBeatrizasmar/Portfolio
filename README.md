@@ -49,7 +49,6 @@ que já desenvolvi!</p>
                     </div>
                 </div>
             </div>
-            <!-- Projeto 2 -->
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
@@ -82,8 +81,6 @@ que já desenvolvi!</p>
             </div>
         </div>
     </main>
-
-    <!-- Modal 1 -->
     <div class="modal" id="modal1" tabindex="-1">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -121,7 +118,6 @@ que já desenvolvi!</p>
             </div>
         </div>
     </div>
-    <!-- Modal 2 -->
     <div class="modal" id="modal2" tabindex="-1">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -168,8 +164,6 @@ que já desenvolvi!</p>
             </div>
         </div>
     </div>
-
-    <!-- Modal 3 -->
     <div class="modal" id="modal3" tabindex="-1">
         <div class="modal-dialog">
             <div class="modal-content">
@@ -213,7 +207,6 @@ que já desenvolvi!</p>
         </div>
         <p class="my-5 text-center">© Copyright 2024. Produzido por Fernanda Mascheti</p>
     </footer>
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
