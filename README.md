@@ -11,7 +11,7 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150" srcset="">
+        <img src="img/avatar-perfil.png" alt="avatar da Ana Beatriz" class="rounded-circle" width="150" height="150" srcset="">
         <p class="lead">Eu sou Ana Beatriz_</p>
 <h1>Eu estudo Programação</h1>
 <p>Estou no 3 ano do ensino médio. Aprendo sobre programação. Na escola realizo diversos projetos e aprendo diversos códigos. Veja os projetos
